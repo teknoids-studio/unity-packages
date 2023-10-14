@@ -26,6 +26,10 @@
 # Visual Studio cache directory
 .vs/
 
+# Rider cache directory
+.idea/
+
+
 # Gradle cache directory
 .gradle/
 
@@ -33,7 +37,6 @@
 ExportedObj/
 .consulo/
 *.csproj
-*.unityproj
 *.sln
 *.suo
 *.tmp
@@ -58,7 +61,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
 *.app
 
 # Crashlytics generated file
